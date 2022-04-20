@@ -1,0 +1,23 @@
+.input-form{
+    padding-top: 50px;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #FFF;
+}
+.input-form input{
+    height: 50px;
+    margin: 10px;
+    width:200px;
+    font-size: 17px;
+   
+}
+.input-form button{
+    height: 55px;
+    background-color: lightblue;
+    border: none;
+    font-size: 17px;
+    width: 100px;
+}

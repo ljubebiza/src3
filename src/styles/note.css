@@ -1,0 +1,29 @@
+.note{
+    margin-top: 20px;
+    width: 28%;
+    height: 300px;
+    padding: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-image: url("../images/note.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+.note .content{
+    padding: 40px 61px
+}
+
+.note p{
+    
+    font-size: 19px;
+}
+
+.note h5{
+    font-family: arial;
+    font-size: 21px;
+}

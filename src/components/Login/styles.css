@@ -1,0 +1,22 @@
+.login{
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    width: 100%;
+    
+}
+.login input{
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: none;
+    border-color: blueviolet;
+    margin: 3px;
+}
+.login button{
+   padding: 15px;
+   margin: 10px;
+   color: aliceblue;
+   border: none;
+   background-color: cornflowerblue;
+   border-radius: 12px;
+}
